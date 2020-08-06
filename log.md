@@ -52,3 +52,9 @@ Previous logs are there on my [twitter](https://twitter.com/sidsri99)
 
 **Thoughts**: Revision of basic concepts
 
+
+### Day 73: 6 August 2020 , Thursday
+
+**Today's Progress**: Solved some functional questions based on linked list using Java
+
+**Thoughts**: Focussing on improving time to solve a question
