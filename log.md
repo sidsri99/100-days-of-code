@@ -58,3 +58,10 @@ Previous logs are there on my [twitter](https://twitter.com/sidsri99)
 **Today's Progress**: Solved some functional questions based on linked list using Java
 
 **Thoughts**: Focussing on improving time to solve a question
+
+
+### Day 74: 7 August 2020 , Friday
+
+**Today's Progress**: Solving competitive programming questions using Java
+
+**Thoughts**: Competitive programming requires determining and implementing the solution using proper data structures and algorithm which also helps in improving time complexity of program for larger inputs.
