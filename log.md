@@ -65,3 +65,38 @@ Previous logs are there on my [twitter](https://twitter.com/sidsri99)
 **Today's Progress**: Solving competitive programming questions using Java
 
 **Thoughts**: Competitive programming requires determining and implementing the solution using proper data structures and algorithm which also helps in improving time complexity of program for larger inputs.
+
+
+### Day 75: 8 August 2020 , Saturday
+
+**Today's Progress**: Revised and practiced some SQL commands
+
+
+
+### Day 76: 9 August 2020 , Sunday
+
+**Today's Progress**: Practiced some questions based on Collection in Java
+
+
+### Day 77: 10 August 2020 , Monday
+
+**Today's Progress**: Practiced some questions based on algorithms in Java
+
+
+
+### Day 78: 11 August 2020 , Tuesday
+
+**Today's Progress**: Solved some competitive programming contest questions in Java using Data Structures and Algorithms
+
+
+
+### Day 79: 12 August 2020 , Wednesday
+
+**Today's Progress**: Practiced some Java questions based on abstraction
+
+
+
+### Day 80: 13 August 2020 , Saturday
+
+**Today's Progress**: Practied some programs in Java, focussing to optimize the solution
+
