@@ -95,8 +95,49 @@ Previous logs are there on my [twitter](https://twitter.com/sidsri99)
 **Today's Progress**: Practiced some Java questions based on abstraction
 
 
-
-### Day 80: 13 August 2020 , Saturday
+### Day 80: 13 August 2020 , Thursday
 
 **Today's Progress**: Practied some programs in Java, focussing to optimize the solution
 
+
+### Day 81: 14 August 2020 , Friday
+
+**Today's Progress**: Practiced some easy questions in Java based on recursion
+
+
+### Day 82: 15 August 2020 , Saturday
+
+**Today's Progress**: Focussing on problem solving, Solved some competitive programming questions in Java
+
+
+### Day 83: 16 August 2020 , Sunday
+
+**Today's Progress**: Learning React @FreeCodeCamp. Completed around 53% of React curriculum(25/47).
+Todays progress (12/47) or 25%
+
+
+### Day 84: 17 August 2020 , Monday
+
+**Today's Progress**: Practiced some sorting based questions in Java
+
+
+### Day 85: 18 August 2020 , Tuesday
+
+**Today's Progress**: Practiced some easy questions in Java based on pattern and queue
+
+
+### Day 86: 19 August 2020 , Wednesday
+
+**Today's Progress**: Solved some questions in Java @HackerRank
+
+
+### Day 87: 20 August 2020 , Thursday
+
+**Today's Progress**: Practied some basic C# problems to revise syntax and concepts of C# programming.
+
+
+
+
+### Day 88: 21 August 2020 , Friday
+
+**Today's Progress**: Implemented some simple animations using HTML, CSS and JavaScript.
