@@ -136,8 +136,26 @@ Todays progress (12/47) or 25%
 **Today's Progress**: Practied some basic C# problems to revise syntax and concepts of C# programming.
 
 
-
-
 ### Day 88: 21 August 2020 , Friday
 
 **Today's Progress**: Implemented some simple animations using HTML, CSS and JavaScript.
+
+
+### Day 89: 22 August 2020 , Saturday
+
+**Today's Progress**: Implemented moving car animation using HTML, CSS and JavaScript.
+
+
+### Day 90: 23 August 2020 , Sunday
+
+**Today's Progress**: Solved some easy questions based on Collections(HashSet) in Java.
+
+
+### Day 91: 24 August 2020 , Monday
+
+**Today's Progress**: Practiced some questions based on Arrays in Java
+
+
+### Day 92: 25 August 2020 , Tuesday
+
+**Today's Progress**: Practiced some questions based on Java Collections (Stack)
