@@ -159,3 +159,43 @@ Todays progress (12/47) or 25%
 ### Day 92: 25 August 2020 , Tuesday
 
 **Today's Progress**: Practiced some questions based on Java Collections (Stack)
+
+
+### Day 93: 26 August 2020 , Wednesday
+
+**Today's Progress**: Today focus was on design with front-end tecchnologies like HTML and CSS
+
+
+### Day 94: 27 August 2020 , Thursday
+
+**Today's Progress**: Solved some easy questions of competitive programming in Java( mainly based on Arrays ).
+
+
+### Day 95: 28 August 2020 , Friday
+
+**Today's Progress**: Revised concepts of ASP.NET along with some practice.
+
+
+### Day 96: 29 August 2020 , Saturday
+
+**Today's Progress**: Practiced some easy questions based on linked list(mainly circular linked list).
+
+
+### Day 97: 30 August 2020 , Sunday
+
+**Today's Progress**: Some practice of stack data structure using Java
+
+
+### Day 98: 31 August 2020 , Monday
+
+**Today's Progress**: Practiced various operations performed on stack data structure using Java
+
+
+### Day 99: 1 September 2020 , Tuesday
+
+**Today's Progress**: Some practice of queue data structure using Java
+
+
+### Day 100: 2 September 2020 , Wednesday
+
+**Today's Progress**: Started with practice of HashSet Java Collection
